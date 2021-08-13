@@ -21,7 +21,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```
 # Clone este repositório
-$ git clone https://github.com/wesleywisch/Ignite-reactjs-conceitos-do-react.git
+$ git clone https://github.com/wesleywisch/Ignite-TodoList.git
 
 # Instale as dependências
 $ yarn ou npm install
